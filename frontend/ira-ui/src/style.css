@@ -1,0 +1,66 @@
+body{
+ background:#0f0f1a;
+ color:white;
+ font-family:monospace;
+}
+
+.center{
+ display:flex;
+ height:100vh;
+ justify-content:center;
+ align-items:center;
+}
+
+.login-box{
+ background:#1b1b2f;
+ padding:40px;
+ border-radius:12px;
+ text-align:center;
+}
+
+input{
+ padding:10px;
+ border:none;
+ width:200px;
+ border-radius:8px;
+}
+
+button{
+ padding:10px 20px;
+ background:#ff4d6d;
+ border:none;
+ color:white;
+ border-radius:8px;
+}
+.orb{
+  width:150px;
+  height:150px;
+  border-radius:50%;
+  background: radial-gradient(circle,#ff4da6,#8a2be2);
+  margin:auto;
+  animation:pulse 2s infinite;
+}
+
+@keyframes pulse{
+  0%{transform:scale(1)}
+  50%{transform:scale(1.1)}
+  100%{transform:scale(1)}
+}
+.chat-ui{
+ width:400px;
+ margin:auto;
+}
+
+.msgs{
+ height:350px;
+ overflow:auto;
+}
+
+.me{
+ text-align:right;
+ color:#00ffcc;
+}
+
+.ira{
+ color:#ff9ff3;
+}
