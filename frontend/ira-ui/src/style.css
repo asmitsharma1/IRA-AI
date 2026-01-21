@@ -50,7 +50,11 @@ button{
  width:400px;
  margin:auto;
 }
-
+@keyframes pulse{
+  0%{box-shadow:0 0 10px pink;}
+  50%{box-shadow:0 0 40px hotpink;}
+  100%{box-shadow:0 0 10px pink;}
+}
 .msgs{
  height:350px;
  overflow:auto;
