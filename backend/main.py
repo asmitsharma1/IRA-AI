@@ -24,6 +24,7 @@ app.add_middleware(
 
 # ===== GROQ =====
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+ELEVEN_API_KEY = os.getenv("ELEVEN_API_KEY")
 
 
 

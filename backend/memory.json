@@ -133,5 +133,105 @@
         "name": "Asmit",
         "message": "yrr aaj ka day bahut hectic tha",
         "mood": "neutral"
+    },
+    {
+        "name": "Asmit",
+        "message": "hi",
+        "mood": "neutral"
+    },
+    {
+        "name": "Asmit",
+        "message": "i m sad",
+        "mood": "sad"
+    },
+    {
+        "name": "Asmit",
+        "message": "yrr i m sad",
+        "mood": "sad"
+    },
+    {
+        "name": "Asmit",
+        "message": "yrr i m sad",
+        "mood": "sad"
+    },
+    {
+        "name": "Asmit",
+        "message": "hi",
+        "mood": "neutral"
+    },
+    {
+        "name": "Asmit",
+        "message": "hi",
+        "mood": "neutral"
+    },
+    {
+        "name": "Asmit",
+        "message": "i m sad",
+        "mood": "sad"
+    },
+    {
+        "name": "Asmit",
+        "message": "i m angry",
+        "mood": "neutral"
+    },
+    {
+        "name": "bilal",
+        "message": "hello",
+        "mood": "neutral"
+    },
+    {
+        "name": "bilal",
+        "message": "good , hw's urs",
+        "mood": "neutral"
+    },
+    {
+        "name": "bilal",
+        "message": "I am thinking of not taking the next class ",
+        "mood": "neutral"
+    },
+    {
+        "name": "bilal",
+        "message": "yrr dimag kharab hora ha",
+        "mood": "neutral"
+    },
+    {
+        "name": "Ayush",
+        "message": "hi bro",
+        "mood": "neutral"
+    },
+    {
+        "name": "Ayush",
+        "message": "sab badhiya tu suna",
+        "mood": "neutral"
+    },
+    {
+        "name": "asmit",
+        "message": "hi",
+        "mood": "neutral"
+    },
+    {
+        "name": "Test",
+        "message": "hi",
+        "mood": "neutral"
+    },
+    {
+        "name": "Asmit",
+        "message": "hi",
+        "mood": "neutral"
+    },
+    {
+        "name": "Asmit",
+        "message": "yrr aaj ka test bekar gya ",
+        "mood": "neutral"
+    },
+    {
+        "name": "mekhala",
+        "message": "hi",
+        "mood": "neutral"
+    },
+    {
+        "name": "mekhala",
+        "message": "fine ",
+        "mood": "neutral"
     }
 ]
